@@ -45,7 +45,7 @@ SPAMX is a all in one Bombing+Spam tool from this tool you can send anonymous me
 
 ## WATCH VIDEO [Termux]
 
-[![des](https://user-images.githubusercontent.com/49580304/96466915-3c2ea080-11df-11eb-8328-100ca165c12c.jpg)](https://youtu.be/tsVyPzukA3o)
+[![des](core/20211009_144124.jpg)](https://youtu.be/tsVyPzukA3o)
 
 
 ## WARNING : 
