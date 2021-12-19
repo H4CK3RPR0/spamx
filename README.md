@@ -34,14 +34,6 @@ SPAMX is a all in one Bombing+Spam tool from this tool you can send anonymous me
 ```
 
 
-## SCREEN SHOTS [Termux]
-
-<br>
-<p align="center">
-<img width="40%" src="core/20211009_144124.jpg"/>
-<img width="28.8%" src="core/20211009_144213.jpg"/>
-<img width="23.4%" src="core/Screenshot_2020-05-17-20-17-56.png"/>
-</p>
 
 ## WATCH VIDEO [Termux]
 
