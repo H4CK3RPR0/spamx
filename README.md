@@ -22,7 +22,7 @@ SPAMX is a all in one Bombing+Spam tool from this tool you can send anonymous me
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://https://github.com/H4CK3RPR0/spamx`
+* `git clone https://github.com/H4CK3RPR0/spamx`
 * `cd $HOME`
 * `ls`
 * `cd spamx`
